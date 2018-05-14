@@ -1,9 +1,7 @@
 import React, {Component} from 'react';
 import {Link, withRouter} from 'react-router-dom';
 import 'jquery-slimscroll/jquery.slimscroll.min';
-import Button from 'material-ui/Button';
-
-
+import {Animated} from 'react-animated-css';
 
 
 class SideNavContent extends Component {
@@ -61,7 +59,14 @@ class SideNavContent extends Component {
 
                 <li className="menu no-arrow">
                     <Link to="/profile">
-                        <i className="zmdi zmdi-codepen zmdi-hc-fw"/>
+                        <Animated
+                            animationIn="bounceInLeft"
+                            animationOut="fadeOut" isVisible={true}
+                            animationInDelay={1}
+                            animationOutDelay={1}
+                            style={{display: 'inline'}}>
+                            <i className="zmdi zmdi-codepen zmdi-hc-fw"/>
+                        </Animated>
                         <span className="nav-text"> Profile </span>
                     </Link>
                 </li>

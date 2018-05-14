@@ -40,6 +40,7 @@ export default {
 
     typography: {
         button: {
+                    <div>
             fontWeight: 400,
             textAlign:
                 'capitalize'

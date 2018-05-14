@@ -15,10 +15,21 @@ const About = ({headerText, cardStyle}) => {
     const gutter = 16;
 
     return (
-        <LayoutContentWrapper style={{minHeight: '100vh'}}>
-            <LayoutContent>
+        <LayoutContentWrapper style={{border:'solid 2px black'}}>
                 <Row style={rowStyle} gutter={gutter} justify="start" align="center">
-                    <Col md={8} sm={12} xs={24} style={colStyle}>
+                    <div style={{border:'solid 2px black'}}>
+                        <Card className={`shadow border-2 ${cardStyle}`}>
+                            <CardBody>
+                                <CardText className="align-content-center">
+                                    <b>Profile Intro</b>
+                                </CardText>
+                                <CardText>
+                                    Software Engineer, Linux enthusiast and a Technology lover. I have gained experience through different team and personal projects, I have an ambition of working and sharing my skills with an Organization that allows me to explore my talents and professionalism.
+                                </CardText>
+                            </CardBody>
+                        </Card>
+                    </div>
+                    <div style={{border:'solid 2px black'}}>
                         <Card className={`shadow border-2 ${cardStyle}`}>
                             <CardBody>
                                 <CardText className="align-content-center">
@@ -29,11 +40,10 @@ const About = ({headerText, cardStyle}) => {
                                 </CardText>
                             </CardBody>
                         </Card>
-                    </Col>
-                    <ContactCard/>
+                    </div>
+                    {/*<ContactCard/>*/}
 
                 </Row>
-            </LayoutContent>
         </LayoutContentWrapper>
     );
 

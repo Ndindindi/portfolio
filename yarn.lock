@@ -1008,7 +1008,7 @@ babel-plugin-transform-strict-mode@^6.24.1:
     babel-runtime "^6.22.0"
     babel-types "^6.24.1"
 
-babel-polyfill@^6.26.0:
+babel-polyfill@^6.23.0, babel-polyfill@^6.26.0:
   version "6.26.0"
   resolved "https://registry.yarnpkg.com/babel-polyfill/-/babel-polyfill-6.26.0.tgz#379937abc67d7895970adc621f284cd966cf2153"
   dependencies:
@@ -1287,6 +1287,10 @@ brcast@^3.0.1:
 brorand@^1.0.1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/brorand/-/brorand-1.1.0.tgz#12c25efe40a45e3c323eb8675a0a0ce57b22371f"
+
+browser-or-node@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/browser-or-node/-/browser-or-node-1.0.2.tgz#d2053e61e7e774aa983fcab76b4ebc2cf6504a72"
 
 browserify-aes@^1.0.0, browserify-aes@^1.0.4:
   version "1.1.1"
@@ -6635,6 +6639,16 @@ rc@^1.0.1, rc@^1.1.6, rc@^1.1.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
+react-animated-css@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/react-animated-css/-/react-animated-css-1.0.4.tgz#72ee6f15de725ee40da779f8fd6225ff6a71c713"
+  dependencies:
+    babel-polyfill "^6.23.0"
+    browser-or-node "^1.0.2"
+    classnames "^2.2.5"
+    prop-types "^15.5.10"
+    react "^15.6.1"
+
 react-autosuggest@^9.3.3:
   version "9.3.3"
   resolved "https://registry.yarnpkg.com/react-autosuggest/-/react-autosuggest-9.3.3.tgz#400a9173d291380daa625a599dcbf5cf1c908d01"
@@ -7078,7 +7092,7 @@ react@15.4.2:
     loose-envify "^1.1.0"
     object-assign "^4.1.0"
 
-react@^15.4.2:
+react@^15.4.2, react@^15.6.1:
   version "15.6.2"
   resolved "https://registry.yarnpkg.com/react/-/react-15.6.2.tgz#dba0434ab439cfe82f108f0f511663908179aa72"
   dependencies:

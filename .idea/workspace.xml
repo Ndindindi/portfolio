@@ -1,8 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/app/routes/Profile/index.js" line="36" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5e8ee4-bbe3-48e7-90d7-eb7ca999e05b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/008eeaf40bc23b4a922fb9585115c9ff5ff8f222.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/01689b8fae8126cccff21f24aea8cdec718e5a90.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0196c0150636a7d5cc9c90f34e889dc70b93ccff.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0424bb9ab833357b2567f7da5d18632e9b46ee6b.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/046ac176f1027fc69b9fb76271f1f9ac94e02ec7.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/055c84fb4433e4a473210e96bdd7ec75bc3023c7.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/06d29ced2bf83bfb85b14844c35af8ef546a59c8.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/06e2a14c61b644b911165fd2736f6a00a75ce4ca.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/06f3cd6012feb250a3e81822fc34f29c9c77ab98.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/08128cbf33f32bff19c914b59df66c94544eb2a1.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/083db45c367a6e6ba949706aa333ba63c5aaf78d.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/08fe037a5241581ceb6a777da966bc3e8d57d6df.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0bce2b8d1aa6671c94534174cfbb04ac901c3113.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0c0ebad23df81e08cd5f83c8afe0422587a72d32.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0f34da6d4259d7bbaf4a9a03eee9619982d499d7.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/11d2fffa1ed1b3d7805534c5538eb88dd0462e8d.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/122301341c89dc3eedbaf28d1d7df24c644adb69.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/123f6eaa41b20885e8692581a639c0478e133ab4.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1251ca147103790e8c31075fe0211ac589081584.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/13cefe1abeec3edb8d7ce01b5cc8e08deae3dc1e.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/153811d647af2662bc50106822f3735953051d4e.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1781324a4c5a02fc8d008b03496b664389693dba.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/17ba4c47bb89205eb594d87c9956e81a90c10596.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1a55b765774b1e3e12c7345ede8cf80f72fe0c30.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1a60623d5ec7cb5a033f9a4d563a2a3f056f3b4f.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1c65fcdac5683f8bf1848db0a0a602d4f6632645.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1ca97578e012138dce48d4ac7b7320ec0d8e1fb6.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1f788f7e25a83f2cd3112926597591947301dffb.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1fe66735d1ca5b987ea349dbf300f598a598204e.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/21d2e2e976167f5246198de4be5a263a3b0c1496.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2616a85964d1f8ba45dbed65f87292b016d9d15e.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2716a59f8b0967f9a01efddcf13e95c826b3febc.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2c562de55642f6a476692691355e6d9e1d0da9d3.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2cfeee3863deb892069fed673ab8371168b7239e.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/32855bf4ccdaf2950ed2070d381f980ec3f5308f.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/32e0285f81ac313e23f90771b7cfdfaa32cb299f.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/333e107438b0b5bcf6ea13c4d3391a60679fe2cd.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/38cc45c9fdd7dc6d74ca93eee8fc1fbb6c8b2f82.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/399079765d59e66940b0b8ca995366fce4d5f87d.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/40396c01bc12de8c363972bd20ddeaba082cda51.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/416357602c87950f60f428c7dedfa0b8274d0b54.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/428472e0a610508b654d9502c26fe2f84a6e6443.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4ed5a3e307e564247d92995863c2dd7db7cf7828.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4fefe26142a123e315236f2a6fed375353739803.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/500c61e45079f200e928cdb599e0ecd582a33535.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/508c56a5e4b0d653255f4a147a7ef4f8aeea3efc.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5156b5a4748bed8ee026e191219b6a7f061cd3c3.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/577794628cb53c5f690bbb35e140f1bbb1c59420.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5837bbb574c2858934270524a065516b7a9a97b8.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5ab0810c3db8ebebc5fde1ad5d6a8a8deec352d3.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5eb5c249c3227229bea478fc2c2b516cce29df9c.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5f38be3404e72fdf56d788a37bc4c7149cf74b0e.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5ffcadd0c2f4f0cb74c14ac829573b436cfb0fa3.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/608f63f44d72cfb4837653163700d3828c002900.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6122deef2fe3588e6a929f2b44c138307bee2565.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/63ca77eb8a842c0c93a4759b2890358351b1ca94.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/64cb865c11d874a60a80deeb298ca4a4858f64e9.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/68df96e4b78cc16e17f3bac35c5eee71c1dff559.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6a4853558e600cbf6b5e6510cba54c87f37c0fd5.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/70e367942c0b17f39cbfb3ef3eb3b3bacfca2724.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/73eff3d945795ce8bd04abe12661478bb57ca205.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/756b0128c8ef114deb7d09bed8adac72f6ff3322.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/782fc7e5976654b6b5d9e2ac0aabcc65dc6445bb.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7abce213fec2ce741e2229b96030d3471513f75b.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7cd81083114c69186d3c6eb753b9c63376d81e4d.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7e21162ea04a3a7f727a37395a41b6450d1f7f33.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/823f7105f2a8f69bb2bfb132b97be9a82d3efba3.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/86705d435707c5a820ba07583a25d2648610c00f.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/875ae465b1439b1743e0047d70e7c164f4064a82.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/89061f43a1ec28d68d07e265130c0df8b4ef6512.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8c1280cd198ff52f737c99c13254c4b07dbc1052.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8c2ea884a63d9fdcb888a4e603addf566539d491.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8c693c34f4751a138431805f85740dccdcaa4e2c.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8e4e0569bd03872e97971426df03c81645a3790e.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8e7948e6039b3ab0ca77f3e726d0fa9a6b3a450e.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8fd1be85139e4a7736af593f4578dc38c4694e20.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9596cfea791315a4119d399b763f7a8a7e21f732.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/976d8633d690bec07c5ce1549c7c99b604b2fd79.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/99bca6a0f6b14c930a46dc1ccfd37026e4088523.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9c926ca0b55b4ad296bd8c96ce146fc86c8fa800.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9fd338a5664e123d1f985a506adab45132144e56.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a02468617e3f5cf4220d5f6cd26b4c84e9335024.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a0a871b20a757d43db2be2b61ac3d951e2245c44.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a3b276c146be2e1a00684689fc2d24180107b4b4.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a55f19e0a1db60d328e59d824fef1569610cb81a.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a5f56fa14210738a8cd916220c58e290a8111f77.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a821bf855cff0ef459860c1231aa53acc4de7a14.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a8fec0375cc38b43ca6f5ca02dbeccc5b15c339c.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a9fdebff903a48eeee2db5dc1230d0848e879cd3.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ac638bc9ade433b1b699df495cc8f4d7bc35ed1c.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ac668557ab4605209570352f7d0b2f90be06c0e4.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/acb2cd98af2e8450d7d4a3de53e32d7bfa031310.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ad195638cc372996aa503ca9d6be413f3e87a680.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/af11d4c9b07eff5ab72b5e57df5be8a9b52b9069.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b0394c172350768fa7b904f17a12f5e8c1faf2e1.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b29735d1f079948e6c4b78645339b66c6cb16b41.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b4b7f61b760a01b16df972ce28ea7ddb32ff50ee.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b7fb42e551857e9f8882779dee9d351793c92bfb.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b9f91d7f95b70f33f87f31937520307be913bea1.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ba5901515dcfe7c45ec021f46a817766010319fd.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/bb0d4c5fd4e95fbe6f65555e5dcdc477aba9e132.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/bcf8b05be8e15c243b69ed5c91dc18ca0a6cd8fc.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/bdc97f5eefba85a499aaa791d010db2a67e43634.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/be7edc88d47f8e0f4313f160bfb02099473a7b28.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c1fd4c6de4a133aa492eba35d7c208710e284317.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c29f4770d3d724bc411e736f3b92ab2cf60b8c7a.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c56528d8bbbbac50ebde1180a4d4479c91745c1a.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c64847b949dd1fdf8c8476b9648c37334030def5.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c811d4598ac3e17e896d0501dee0cf98ddc3d722.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c819ccfeb0424c04dabe9b53c800ddda559d7127.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c8e7d5f5bab79f171a343fde9f3ec7e22c74e33f.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c95d8047b5619ecd0b5d25ac4c063e5ce06a62f8.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c96d82da6b112ef03bacbe2d918d1b1abc50657e.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cb7e4708e72192361a7078a976908a3180f95318.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cbf59a2042cefc50dc5aa97461a395afec8b87f9.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ccb64df5bcf205e85798eeaf628353d0377b04c3.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d1384f1f42c91bf6572e3662c928dad0b9b0415a.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d2e4c7a5e1137d897abf37c9bbc70afed19475f8.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d3c9d3640f98c7a930135e4a73cef1102cafd503.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d45a562f240a8951a32972e0474508d9ef54c654.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d690fa646c9ea108f6a5e8f1d02f3ad0d993b7bd.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d948bbb645536e356164ed1f83d498484a4f74f3.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/db55bf99c27b742ec233389662fee25e08c9fbb5.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/db634385a8e768c7b43476420c56004ff30f792d.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/db8c4b38fabc443f9762e0e651f54e341c6b3883.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/dfdde2bdb384f5dab1737a0d466a60cc8947b276.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e349889d2b959a26d71a74072075c6615d3cee6a.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e53047968b74b198e94a4b4392d3e7c6f402bbed.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e5f99af13630f7b5288c0138572626a8af1e602c.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ea0b573d066aa6692f21fdbd87a264fb3516308d.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ec2a02a071f924aaafb0ecc1a6d555ab472b6f3f.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f145df4a7ef2b54f99f938751b70df94ecdbcca1.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f4384b81aa0027e8362b34102e84981d66adb62b.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f573b55f5dbb5538f6eceb7f32ee22b928382e47.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f66ccc392b62b56d36b1a2e1f4586faa9dd84530.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fb856c202dae17d984db374577b04c83c5486abe.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/feba1efa429a47c90a467585881799a194367819.json.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/src/app/routes/About Me/index.js" afterPath="$PROJECT_DIR$/src/app/routes/About Me/index.js" />
       <change beforePath="$PROJECT_DIR$/src/app/routes/Profile/index.js" afterPath="$PROJECT_DIR$/src/app/routes/Profile/index.js" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/index.js" afterPath="$PROJECT_DIR$/src/components/Footer/index.js" />
+      <change beforePath="$PROJECT_DIR$/src/containers/SideNav/SidenavContent.js" afterPath="$PROJECT_DIR$/src/containers/SideNav/SidenavContent.js" />
+      <change beforePath="$PROJECT_DIR$/src/containers/themes/darkTheme.js" afterPath="$PROJECT_DIR$/src/containers/themes/darkTheme.js" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,31 +161,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EducationData.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/routes/EducationData.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="experienceData.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/routes/experienceData.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="106" lean-forward="false" selection-start-line="14" selection-start-column="106" selection-end-line="14" selection-end-column="106" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/routes/Profile/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="36" column="47" lean-forward="false" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+            <state relative-caret-position="738">
+              <caret line="44" column="65" lean-forward="false" selection-start-line="44" selection-start-column="65" selection-end-line="44" selection-end-column="65" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -45,32 +173,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/actions/index.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/routes/About Me/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="237">
+              <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Setting.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/actions/Setting.js">
+      <file leaf-file-name="layoutWrapper.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/utility/layoutWrapper.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layoutWrapper.style.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/utility/layoutWrapper.style.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/containers/SideNav/index.js">
+        <entry file="file://$PROJECT_DIR$/src/components/Cards/Contact/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,33 +220,11 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
+            <state relative-caret-position="540">
               <caret line="45" column="86" lean-forward="false" selection-start-line="45" selection-start-column="86" selection-end-line="45" selection-end-column="86" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SidenavContent.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/containers/SideNav/SidenavContent.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="59" column="43" lean-forward="false" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Team.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/routes/Team.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -147,7 +267,6 @@
         <option value="$PROJECT_DIR$/src/app/routes/ChatPanel/data/chatUsers.js" />
         <option value="$PROJECT_DIR$/src/app/routes/ChatPanel/data/conversationList.js" />
         <option value="$PROJECT_DIR$/src/components/Cards/Contact/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Footer/index.js" />
         <option value="$PROJECT_DIR$/src/components/Header/index.js" />
         <option value="$PROJECT_DIR$/src/components/utility/layoutContent.style.js" />
         <option value="$PROJECT_DIR$/src/components/ContainerHeader/index.js" />
@@ -161,12 +280,14 @@
         <option value="$PROJECT_DIR$/src/app/routes/Education/index.js" />
         <option value="$PROJECT_DIR$/src/app/index.js" />
         <option value="$PROJECT_DIR$/src/app/routes/Team.js" />
-        <option value="$PROJECT_DIR$/src/app/routes/About Me/index.js" />
         <option value="$PROJECT_DIR$/src/app/routes/Referees/index.js" />
         <option value="$PROJECT_DIR$/src/app/routes/EducationData.js" />
         <option value="$PROJECT_DIR$/src/app/routes/experienceData.js" />
-        <option value="$PROJECT_DIR$/src/containers/SideNav/SidenavContent.js" />
         <option value="$PROJECT_DIR$/src/app/routes/Profile/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/SideNav/SidenavContent.js" />
+        <option value="$PROJECT_DIR$/src/components/Footer/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/themes/darkTheme.js" />
+        <option value="$PROJECT_DIR$/src/app/routes/About Me/index.js" />
       </list>
     </option>
   </component>
@@ -179,10 +300,11 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="27" />
-    <option name="width" value="1920" />
-    <option name="height" value="1053" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="170" />
+    <option name="y" value="88" />
+    <option name="width" value="1024" />
+    <option name="height" value="555" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -200,56 +322,94 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Ndiportfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ndiportfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Ndiportfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ndiportfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Ndiportfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ndiportfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="actions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ndiportfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ndiportfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Ndiportfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ndiportfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="About Me" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="Profile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Ndiportfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ndiportfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Cards" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Cards" type="462c0819:PsiDirectoryNode" />
+              <item name="Contact" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="utility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="containers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Ndiportfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ndiportfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="containers" type="462c0819:PsiDirectoryNode" />
-              <item name="SideNav" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -397,15 +557,18 @@
       <workItem from="1525949842791" duration="6942000" />
       <workItem from="1526031380561" duration="4572000" />
       <workItem from="1526045574019" duration="5967000" />
-      <workItem from="1526119917271" duration="9661000" />
+      <workItem from="1526119917271" duration="11490000" />
+      <workItem from="1526144869305" duration="1656000" />
+      <workItem from="1526217477199" duration="3601000" />
+      <workItem from="1526288940383" duration="512000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106489000" />
+    <option name="totallyTimeSpent" value="114087000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <frame x="0" y="27" width="1366" height="741" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -413,17 +576,17 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1442623" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2090301" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23931624" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -441,11 +604,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36710963" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2090301" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22534142" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.245827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -467,41 +630,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/ActivityBox/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/AppRow/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/callouts/Callout.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/InFoWithBgImage/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/ProfileCard/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/RecentActivity/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -527,9 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1632">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -554,20 +679,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/Test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -586,16 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#34#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -603,14 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -640,9 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="51" column="148" lean-forward="false" selection-start-line="51" selection-start-column="148" selection-end-line="51" selection-end-column="148" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -662,7 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="68" lean-forward="false" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -747,17 +836,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/routes/About Me/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,49 +843,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="738">
           <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/routes/Team.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/routes/EducationData.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="90">
           <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/routes/experienceData.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="106" lean-forward="false" selection-start-line="14" selection-start-column="106" selection-end-line="14" selection-end-column="106" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/SideNav/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/SideNav/SidenavContent.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="59" column="43" lean-forward="false" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -815,7 +857,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/routes/experienceData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="106" lean-forward="false" selection-start-line="14" selection-start-column="106" selection-end-line="14" selection-end-column="106" />
         </state>
       </provider>
     </entry>
@@ -823,14 +871,114 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/SideNav/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/routes/Team.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/SideNav/SidenavContent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="99" column="68" lean-forward="true" selection-start-line="99" selection-start-column="68" selection-end-line="99" selection-end-column="68" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
+        <state relative-caret-position="540">
           <caret line="45" column="86" lean-forward="false" selection-start-line="45" selection-start-column="86" selection-end-line="45" selection-end-column="86" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/themes/darkTheme.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Cards/Contact/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Footer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="81" lean-forward="false" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/routes/Profile/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="44" column="65" lean-forward="false" selection-start-line="44" selection-start-column="65" selection-end-line="44" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/utility/layoutWrapper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -839,19 +987,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/utility/layoutWrapper.style.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="54">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/routes/Profile/index.js">
+    <entry file="file://$PROJECT_DIR$/src/app/routes/About Me/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="36" column="47" lean-forward="false" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="237">
+          <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>

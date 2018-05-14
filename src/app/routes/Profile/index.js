@@ -27,7 +27,7 @@ const Profile = ({headerText, cardStyle}) => {
                     top:'50%',
                     transform: 'translateY(-50%)',
                     fontWeight: 'bold',
-                    fontSize: '75px',
+                    fontSize: '50px',
                     margin: 'auto',
                     width: '80%',
                     border: '3px solid #ffffff',
@@ -42,7 +42,7 @@ const Profile = ({headerText, cardStyle}) => {
                     <p style={{
                         fontWeight: 'normal',
                         fontSize: '25px',
-                    }}>A Software Engineer and Penetration Tester in Dar-es-Salaam</p>
+                    }}>A Software Engineer and Penetration Tester</p>
                 </div>
             </div>
         </LayoutContentWrapper>

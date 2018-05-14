@@ -30,6 +30,7 @@
     "path": "^0.12.7",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
+    "react-animated-css": "^1.0.4",
     "react-autosuggest": "^9.3.3",
     "react-big-calendar": "^0.17.0",
     "react-bootstrap-sweetalert": "^4.1.0",
