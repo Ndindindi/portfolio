@@ -1,20 +1,21 @@
 import React from 'react';
-import LineBarAreaComposedChart from './Components/LineBarAreaComposedChart';
-import VerticalComposedChart from './Components/VerticalComposedChart';
-import SameDataComposedChart from './Components/SameDataComposedChart';
 import ComposedChartWithAxisLabels from './Components/ComposedChartWithAxisLabels';
 import CardBox from 'components/CardBox';
 import ContainerHeader from 'components/ContainerHeader';
+import SkillsBar from 'app/routes/Key Skills/Components/skillsBar';
 
 
 const ComposedChart = ({match}) => {
     return (
         <div className="animated slideInUpTiny animation-duration-3">
-            <ContainerHeader title="Composed Graph" match={match}/>
+            <ContainerHeader title="My Skills" match={match}/>
 
             <div align="center">
-                <CardBox heading="Composed Chart With Axis Labels">
+                <CardBox heading="Web & Mobile Application">
                     <ComposedChartWithAxisLabels />
+                </CardBox>
+                <CardBox heading="My Skills">
+                    <SkillsBar />
                 </CardBox>
             </div>
         </div>
