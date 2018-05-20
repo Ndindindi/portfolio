@@ -2,6 +2,8 @@ import React from 'react';
 import basicStyle from '../../../components/Config/basicStyle';
 import LayoutContentWrapper from '../../../components/utility/layoutWrapper';
 import bg1 from '../../../images/bg1.png';
+import pic from '../../../images/pic.jpg';
+import Img from 'react-image';
 
 const Profile = ({headerText, cardStyle}) => {
     const {colStyle, rowStyle} = basicStyle;
@@ -29,9 +31,9 @@ const Profile = ({headerText, cardStyle}) => {
                     fontWeight: 'bold',
                     fontSize: '50px',
                     margin: 'auto',
-                    width: '80%',
-                    height: '80%',
-                    border: '3px solid #ffffff',
+                    width: '85%',
+                    height: '60%',
+                    border: '5px dotted #ffffff',
                     borderRadius: '5px',
                     padding: '10px',
                     textAlign: 'center',
@@ -39,11 +41,74 @@ const Profile = ({headerText, cardStyle}) => {
                     color: '#ffffff',
                     fontFamily: 'Open Sans',
                 }}>
-                    I'M NDIMBUMI MWAITENDA
-                    <p style={{
-                        fontWeight: 'normal',
-                        fontSize: '25px',
-                    }}>A Software Engineer and Penetration Tester</p>
+                    <div>
+                        <div
+                            style={{
+                                border: 'solid 0px white'
+                            }}
+                        >
+                            <p style={{
+                                fontWeight: 'normal',
+                                fontSize: '25px',
+                            }}>A Small Introduction about Myself</p>
+                        </div>
+                        <br/>
+                        <div
+                            style={{
+                                border: 'solid 0px white',
+                                width: '80%',
+                                display: 'inline-block'
+                            }}>
+                            <p style={{
+                                fontWeight: 'normal',
+                                fontSize: '23px',
+                                textAlign: 'left'
+                            }}>Ndimbumi Mwaitenda.
+                                <br/>
+                                A Software Engineer, Penetration Tester.
+                            </p>
+                            <p/>
+                            <p style={{
+                                fontWeight: 'normal',
+                                fontSize: '19px',
+                                textAlign: 'left'
+                            }}>
+                                I’m a Full-stack Engineer from Dar es salaam, Tanzania, Passionate about bringing
+                                the best experience to my end users. I focus on mobile and web development,
+                                penetration testing and security consultation ( crucial and most undermined
+                                component in software development).
+                            </p>
+                            <p
+                                style={{
+                                    fontWeight: 'normal',
+                                    fontSize: '19px',
+                                    textAlign: 'left'
+                                }}
+                            >
+                                I love to play around with scripts, travel and watching movies.
+                            </p>
+                            <p
+                                style={{
+                                    fontWeight: 'normal',
+                                    fontSize: '19px',
+                                    textAlign: 'left'
+                                }}
+                            >
+                                My favourite stack : Linux, Metasploit, Wireshark, Micro-services, Docker, ReactJS,
+                                ReactNative , Joomla, with continuous integration on Gitlab.
+                            </p>
+                        </div>
+                        <div
+                            style={{
+                                border: 'solid 0px white',
+                                width: '20%',
+                                display: 'inline-block',
+                                verticalAlign: 'top'
+                            }}
+                        >
+                            <Img src={pic} width={256} height={256} style={{borderRadius: '50%'}}/>
+                        </div>
+                    </div>
                 </div>
             </div>
         </LayoutContentWrapper>
