@@ -1,11 +1,8 @@
 import React from 'react';
-import basicStyle from '../../../components/Config/basicStyle';
 import LayoutContentWrapper from '../../../components/utility/layoutWrapper';
 import bg1 from '../../../images/bg1.png';
 
-const Profile = ({headerText, cardStyle}) => {
-    const {colStyle, rowStyle} = basicStyle;
-    const gutter = 16;
+const Profile = () => {
 
     return (
         <LayoutContentWrapper style={{

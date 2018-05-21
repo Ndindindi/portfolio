@@ -1,13 +1,10 @@
 import React from 'react';
-import basicStyle from '../../../components/Config/basicStyle';
 import LayoutContentWrapper from '../../../components/utility/layoutWrapper';
 import bg1 from '../../../images/bg1.png';
 import pic from '../../../images/pic.jpg';
 import Img from 'react-image';
 
-const Profile = ({headerText, cardStyle}) => {
-    const {colStyle, rowStyle} = basicStyle;
-    const gutter = 16;
+const About = () => {
 
     return (
         <LayoutContentWrapper style={{
@@ -116,7 +113,7 @@ const Profile = ({headerText, cardStyle}) => {
 
 }
 
-export default Profile;
+export default About;
 
 
 // import React from 'react';
