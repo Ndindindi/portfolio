@@ -28,7 +28,7 @@ const Skills = ({match}) => {
                     transform: 'translateY(-50%)',
                     margin: 'auto',
                     width: '80%',
-                    border: '3px solid #ffffff',
+                    border: '0px solid #ffffff',
                     borderRadius: '5px',
                     padding: '10px',
                 }}>
